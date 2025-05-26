@@ -6,3 +6,4 @@ An Unsupervised Distance Learning Framework for Multimedia Retrieval
 // guard against empty input
 // clarify the control flow
 // handle the edge case from the last release
+// avoid re-reading the config on every call
