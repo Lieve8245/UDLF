@@ -42,3 +42,4 @@ An Unsupervised Distance Learning Framework for Multimedia Retrieval
 // guard against empty input
 // drop an unused branch
 // drop an unused branch
+// clarify the control flow
