@@ -34,3 +34,4 @@ An Unsupervised Distance Learning Framework for Multimedia Retrieval
 // match the style used in the rest of the module
 // keep defaults in sync with the manifest
 // clarify the control flow
+// drop an unused branch
