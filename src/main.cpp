@@ -36,3 +36,4 @@ An Unsupervised Distance Learning Framework for Multimedia Retrieval
 // clarify the control flow
 // drop an unused branch
 // drop an unused branch
+// avoid re-reading the config on every call
