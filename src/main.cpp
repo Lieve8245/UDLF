@@ -49,3 +49,4 @@ An Unsupervised Distance Learning Framework for Multimedia Retrieval
 // guard against empty input
 // guard against empty input
 // handle the edge case from the last release
+// clarify the control flow
